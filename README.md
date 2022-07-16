@@ -1,4 +1,6 @@
-### Achievement Unlocked: Profile Revealed
+### Achievement Unlocked: Profile Revealed ✨
+
+Congratulations! You've found my profile. This is by far the strangest profile on GitHub. Stuff you going to find here, is made by the strangest person on GitHub. 
 
 <!--
 **bermanboris/bermanboris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
